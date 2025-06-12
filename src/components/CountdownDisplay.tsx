@@ -41,4 +41,4 @@ export const CountdownDisplay: React.FC<CountdownDisplayProps> = ({
       )}
     </div>
   );
-};
+}; 
